@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "create"
+    },
+    {
+      "name": "rakesh",
+      "comp": "tcs",
+      "sal": "50000",
+      "id": 2
+    },
+    {
+      "name": "roshi",
+      "comp": "google",
+      "sal": "70000",
+      "id": 3
+    },
+    {
+      "name": "mani",
+      "comp": "microsoft",
+      "sal": "30000",
+      "id": 4
+    },
+    {
+      "name": "mathavan",
+      "comp": "wipro",
+      "sal": "200000",
+      "id": 5
+    },
+    {
+      "name": "rakkiii",
+      "comp": "R coder",
+      "sal": "400000",
+      "id": 7
+    }
+  ]
+}

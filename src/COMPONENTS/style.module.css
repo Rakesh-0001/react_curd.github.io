@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: yellow;
+    border-bottom: 1px solid gray;
+}
+.nav>a{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.create{
+    width: 100%;
+    height: 620px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    width: 400px;
+    height: 520px;
+    background-color: rgb(20, 20, 20,.3);
+    display: flex;
+    flex-direction: column;
+    line-height: 50px;
+    padding: 25px;
+    padding-top: 25px;
+    text-align: center;
+    position: relative;
+    bottom: 5px;
+
+}
+label{
+    font-size: 20px;
+    margin-top: 10px;
+}
+input{
+   padding: 10px;
+   font-size: 15px;
+   padding-left: 35px;
+   margin-top:10px
+
+}
+form>button{
+    margin-top: 30px;
+    width: 100%;
+    padding: 13px;
+    background-color: yellow;
+    border: none;
+    font-weight: 600;
+    font-size: 15px;
+}
+.box{
+    width: 100%;
+    /*   */
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+    padding-left: 60px;
+}
+table{
+    width: 200px;
+    height: 150px;
+    border: 2px solid;
+    margin: 15px;
+    padding: 10px;
+}
+th{
+    border-bottom: 2px solid;
+}
+button{
+    width: 100px;
+    background-color: yellow;
+    font-weight: 600;
+    padding: 2px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+hr{
+    border-color: black;
+}
